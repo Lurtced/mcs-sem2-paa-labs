@@ -1,0 +1,6 @@
+Circle: Center = (0, 0), Radius = 0
+Circle: Center = (0, 0), Radius = 0
+Circle: Center = (1, 2), Radius = 1
+Circle: Center = (1, 2), Radius = 3
+Circle: Center = (1, 2), Radius = 4
+Circle: Center = (1, 2), Radius = 5
